@@ -1,0 +1,1032 @@
+Absolutely. Below is a **1000-fact visual-design specification** for a beautiful, expansive 3D game world. It is written as concrete visual facts so you can feed it into an AI game-generation engine or use it as a world-building checklist.
+
+## 1–100: Overall World
+
+1. The world is a vast continuous 3D landscape.
+2. The environment feels naturally connected rather than divided into separate levels.
+3. Mountains form distant silhouettes around the playable region.
+4. Valleys create natural corridors through the terrain.
+5. Rivers connect highlands to lowlands.
+6. Forests cover large portions of the landscape.
+7. Grasslands fill open spaces between forests.
+8. Small villages appear beside roads and rivers.
+9. Large cities occupy strategic flat areas.
+10. Ancient ruins appear in remote locations.
+11. Roads connect settlements organically.
+12. Dirt paths branch away from major roads.
+13. Wooden bridges cross narrow rivers.
+14. Stone bridges cross major waterways.
+15. Waterfalls descend from mountainous cliffs.
+16. Lakes reflect surrounding terrain.
+17. Wetlands contain shallow water and reeds.
+18. Beaches transition naturally into forests.
+19. Cliffs create dramatic elevation changes.
+20. Caves appear beneath mountains.
+21. Hills provide intermediate terrain between plains and mountains.
+22. Dense vegetation surrounds water sources.
+23. Tall grass moves naturally in the wind.
+24. Trees vary significantly in height.
+25. Trees vary in trunk thickness.
+26. Trees vary in species.
+27. Rocks vary in size and shape.
+28. Terrain contains subtle elevation variation.
+29. No large area appears perfectly flat.
+30. Ground materials change according to biome.
+31. Mountain slopes contain exposed rock.
+32. Valley floors contain richer vegetation.
+33. Desert regions contain sparse vegetation.
+34. Snow regions contain frozen vegetation.
+35. Coastal regions contain weathered rocks.
+36. Forest floors contain fallen leaves.
+37. Forest floors contain exposed roots.
+38. Forest floors contain small stones.
+39. Forest floors contain patches of moss.
+40. Grasslands contain flowers.
+41. Fields contain agricultural crops.
+42. Farms contain wooden fences.
+43. Villages contain livestock areas.
+44. Roads contain visible wheel tracks.
+45. Mud paths become darker after rain.
+46. Stone roads contain irregular stones.
+47. Old roads contain cracks.
+48. Roads curve naturally around terrain.
+49. Buildings follow terrain slopes.
+50. Bridges have structural supports.
+51. Rivers have varying widths.
+52. Rivers have shallow edges.
+53. Deep water appears darker.
+54. Water reflects the sky.
+55. Water reflects nearby vegetation.
+56. Water ripples around obstacles.
+57. Water flows downhill.
+58. Waterfalls create mist.
+59. Lakes contain small islands.
+60. Islands contain vegetation.
+61. Mountains have multiple geological layers.
+62. Rock formations have irregular surfaces.
+63. Cliffs contain cracks.
+64. Cliff faces contain vegetation pockets.
+65. Caves have uneven entrances.
+66. Cave interiors become progressively darker.
+67. Caves contain mineral formations.
+68. Ruins contain broken walls.
+69. Ruins contain collapsed roofs.
+70. Ruins contain moss-covered stones.
+71. Ancient statues appear in hidden locations.
+72. Forgotten temples occupy remote areas.
+73. Watchtowers stand on hills.
+74. Fortresses occupy defensible locations.
+75. City walls surround important settlements.
+76. Gates control major city entrances.
+77. Towers overlook surrounding terrain.
+78. Market districts contain dense buildings.
+79. Residential districts contain smaller structures.
+80. Industrial districts contain workshops.
+81. Harbor districts contain docks.
+82. Fishing villages contain boats.
+83. Mountain villages contain stone houses.
+84. Forest villages contain wooden houses.
+85. Desert villages contain clay structures.
+86. Snow villages contain steep roofs.
+87. Coastal towns contain colorful buildings.
+88. Cities contain plazas.
+89. Plazas contain fountains.
+90. Fountains contain flowing water.
+91. Streets contain lanterns.
+92. Windows emit warm light at night.
+93. Shops display visible goods.
+94. Taverns contain signs.
+95. Inns contain balconies.
+96. Buildings contain functional doors.
+97. Buildings contain visible structural beams.
+98. Roofs show weathering.
+99. Chimneys release smoke.
+100. The world feels inhabited even when the player is alone.
+
+## 101–200: Mountains and Highlands
+
+101. Mountain ranges dominate distant horizons.
+102. Peaks have different heights.
+103. Peaks have different silhouettes.
+104. Some mountains are sharp.
+105. Some mountains are rounded.
+106. Some mountains contain snow.
+107. Some mountains contain forests.
+108. Some mountains contain exposed cliffs.
+109. High elevations contain thinner vegetation.
+110. Mountain trails zigzag across slopes.
+111. Rocky paths contain loose stones.
+112. Snow accumulates in mountain crevices.
+113. Ice forms around high-altitude waterfalls.
+114. Mountain clouds pass between peaks.
+115. Fog collects inside valleys.
+116. Sunrise illuminates mountain ridges.
+117. Sunset creates long shadows across slopes.
+118. Clouds cast moving shadows over terrain.
+119. Distant mountains become atmospheric blue.
+120. Nearby mountains show sharper geological details.
+121. Mountain forests contain coniferous trees.
+122. Trees become shorter at high elevations.
+123. Alpine grass covers open ridges.
+124. Wildflowers grow in sheltered valleys.
+125. Mountain streams originate from snowmelt.
+126. Streams contain visible stones.
+127. Small waterfalls appear along steep slopes.
+128. Mountain caves hide behind waterfalls.
+129. Cliff ledges provide natural viewpoints.
+130. Eagles circle above mountain peaks.
+131. Birds disappear into distant valleys.
+132. Mountain goats climb steep rocks.
+133. Wild animals leave tracks in snow.
+134. Snow tracks follow natural animal paths.
+135. Mountain cabins appear near trails.
+136. Cabins contain stacked firewood.
+137. Smoke rises from cabin chimneys.
+138. Wooden fences surround mountain farms.
+139. Stone retaining walls stabilize paths.
+140. Rope bridges cross deep ravines.
+141. Rope bridges sway slightly in wind.
+142. Wooden platforms overlook valleys.
+143. Ancient staircases climb mountainsides.
+144. Ruined statues stand beside mountain paths.
+145. Mountain temples sit on isolated cliffs.
+146. Long stairways lead toward temples.
+147. Temple roofs reflect sunlight.
+148. Prayer flags move in mountain wind.
+149. Stone lanterns line temple paths.
+150. Bells hang beneath temple roofs.
+151. Mountain monasteries contain courtyards.
+152. Courtyards contain trees.
+153. Courtyards contain stone fountains.
+154. Mountain villages cluster around water sources.
+155. Houses use stone foundations.
+156. Wooden upper floors sit above stone bases.
+157. Roofs are designed for heavy snow.
+158. Snow slides naturally from steep roofs.
+159. Mountain roads contain guardrails.
+160. Guardrails use weathered timber.
+161. Deep ravines reveal distant rivers.
+162. Bridges cast shadows onto ravines.
+163. Water mist rises from deep waterfalls.
+164. Sunbeams pass through mountain fog.
+165. Fog density varies by elevation.
+166. Clouds move independently of terrain.
+167. Mountain storms darken distant peaks.
+168. Lightning briefly illuminates mountains.
+169. Rain creates wet rock surfaces.
+170. Wet rocks reflect ambient light.
+171. Snow reflects moonlight.
+172. Ice surfaces contain subtle imperfections.
+173. Frozen lakes contain cracks.
+174. Cracks follow natural stress patterns.
+175. Snow contains footprints.
+176. Footprints vary by creature.
+177. Wind creates small snow drifts.
+178. Mountain shelters contain supplies.
+179. Abandoned camps contain extinguished fire pits.
+180. Old carts rest beside trails.
+181. Broken wheels lie near abandoned roads.
+182. Ancient weapons may rest inside ruins.
+183. Weathered banners hang from fortress walls.
+184. Fortress towers contain narrow windows.
+185. Mountain fortresses have layered defenses.
+186. Walls follow cliff edges.
+187. Stone stairs connect defensive levels.
+188. Watchfires glow at night.
+189. Mountain passes provide strategic routes.
+190. Snowstorms reduce distant visibility.
+191. Clear weather reveals enormous landscapes.
+192. Mountain echoes affect environmental ambience.
+193. Falling rocks create small debris fields.
+194. Rockslides alter some paths.
+195. Avalanche zones contain scattered trees.
+196. Mountain meadows provide visual contrast.
+197. High-altitude lakes appear deep blue.
+198. Reflections mirror surrounding peaks.
+199. Sunrise creates golden mountain edges.
+200. The mountains provide a strong visual backbone for the entire world.
+
+## 201–300: Forests and Jungles
+
+201. Forests contain multiple vegetation layers.
+202. Tall trees form an upper canopy.
+203. Medium trees fill the middle layer.
+204. Shrubs cover the lower layer.
+205. Ferns grow beneath trees.
+206. Moss grows on shaded rocks.
+207. Vines climb tree trunks.
+208. Roots emerge from forest soil.
+209. Fallen branches lie naturally on the ground.
+210. Fallen leaves create soft forest floors.
+211. Tree bark contains unique patterns.
+212. Old trees have thicker trunks.
+213. Young trees have thinner trunks.
+214. Broken branches appear on older trees.
+215. Tree canopies have irregular silhouettes.
+216. Leaves vary in size.
+217. Leaves vary in color.
+218. Forest density changes gradually.
+219. Open clearings appear naturally.
+220. Sunlight passes through canopy gaps.
+221. Volumetric light rays appear in mist.
+222. Dust particles float through sunbeams.
+223. Wind moves leaves at different intensities.
+224. Small plants move independently.
+225. Grass moves differently from shrubs.
+226. Tree branches sway more slowly than leaves.
+227. Heavy branches respond subtly to wind.
+228. Birds move through canopy layers.
+229. Insects fly near flowers.
+230. Butterflies appear around sunny clearings.
+231. Fireflies appear during nighttime.
+232. Forest streams reflect canopy colors.
+233. Small ponds form near streams.
+234. Mushrooms grow around damp logs.
+235. Mushrooms vary in shape.
+236. Mushrooms vary in color.
+237. Flowers grow in patches.
+238. Flower patches vary naturally.
+239. Forest paths contain compressed soil.
+240. Paths curve around trees.
+241. Trees are not placed in perfect grids.
+242. Fallen trees occasionally cross paths.
+243. Players can visually route around fallen trees.
+244. Large roots create small obstacles.
+245. Stones partially disappear beneath soil.
+246. Moss covers shaded stones.
+247. Water collects in forest depressions.
+248. Rainwater flows toward streams.
+249. Mud appears around wet areas.
+250. Mud reflects light differently from dry soil.
+251. Dense jungle contains enormous leaves.
+252. Jungle vines hang from branches.
+253. Jungle plants overlap heavily.
+254. Jungle floors contain thick vegetation.
+255. Tropical flowers provide bright accents.
+256. Jungle waterfalls create misty clearings.
+257. Tropical rivers contain exposed rocks.
+258. Jungle cliffs contain hanging vegetation.
+259. Ancient ruins disappear beneath jungle growth.
+260. Tree roots grow around ruined stones.
+261. Ancient statues become partially covered by vines.
+262. Broken temple entrances hide behind vegetation.
+263. Jungle temples contain moss-covered stairs.
+264. Sunlight penetrates dense jungle selectively.
+265. Humidity creates atmospheric haze.
+266. Rain droplets remain on leaves.
+267. Water drips from large leaves.
+268. Heavy rain darkens tree trunks.
+269. Thunderstorms create temporary darker lighting.
+270. After rain, vegetation appears freshly wet.
+271. Wet leaves produce small highlights.
+272. Puddles reflect nearby trees.
+273. Mist forms above jungle rivers.
+274. Birds call from distant canopy areas.
+275. Monkeys move through distant branches.
+276. Small animals cross paths.
+277. Animal movement is subtle and believable.
+278. Predator tracks appear near water.
+279. Deer tracks appear along forest trails.
+280. Large trees provide natural landmarks.
+281. Hollow trees create visual points of interest.
+282. Some trees contain nests.
+283. Nests contain visible branches.
+284. Some trees contain hanging lanterns near settlements.
+285. Forest villages use wooden platforms.
+286. Bridges connect elevated jungle structures.
+287. Rope walkways cross vegetation.
+288. Wooden watchposts overlook forests.
+289. Hunting camps contain tents.
+290. Campfires illuminate nearby trees.
+291. Smoke passes through branches.
+292. Firelight creates moving shadows.
+293. Night forests contain moonlit clearings.
+294. Fog collects close to forest floors.
+295. Blue atmospheric light appears before sunrise.
+296. Golden light appears after sunrise.
+297. Autumn forests contain changing leaf colors.
+298. Winter forests contain frost-covered branches.
+299. Forests transition gradually into grasslands.
+300. Forests should feel deep, layered, organic, and alive.
+
+## 301–400: Rivers, Lakes, Waterfalls, and Coastlines
+
+301. Major rivers cross large regions.
+302. River width changes naturally.
+303. River depth changes naturally.
+304. Shallow water reveals stones beneath the surface.
+305. Deep water becomes visually darker.
+306. Water surfaces contain small ripples.
+307. Larger rivers contain stronger currents.
+308. Water flows around rocks.
+309. Water forms small whirlpools near obstacles.
+310. Riverbanks contain different vegetation.
+311. Muddy banks appear near slow water.
+312. Rocky banks appear near fast water.
+313. Sandy banks appear near gentle water.
+314. Roots reach toward river water.
+315. Fallen trees cross some rivers.
+316. Floating leaves drift downstream.
+317. Small branches float downstream.
+318. Water reflects sunlight dynamically.
+319. Clouds appear in water reflections.
+320. Mountains appear in distant reflections.
+321. Buildings appear in calm water reflections.
+322. Wind distorts reflections.
+323. Rain creates circular ripples.
+324. Heavy rain creates dense surface patterns.
+325. Waterfalls produce continuous spray.
+326. Mist accumulates beneath waterfalls.
+327. Moss grows around wet rocks.
+328. Water flows over multiple rock steps.
+329. Large waterfalls have multiple visible tiers.
+330. Hidden waterfalls appear inside forests.
+331. Waterfall caves provide secret locations.
+332. Rivers pass beneath bridges.
+333. Bridges have reflected silhouettes.
+334. Wooden docks extend into lakes.
+335. Boats are tied to dock posts.
+336. Boat ropes move slightly.
+337. Boats bob gently on water.
+338. Canoes rest near village shores.
+339. Fishing nets hang beside docks.
+340. Fish occasionally break the water surface.
+341. Birds gather around fishing areas.
+342. Lakes contain reeds.
+343. Reeds move with wind.
+344. Lily pads appear in calm water.
+345. Flowers grow on lily pads.
+346. Swans may appear on calm lakes.
+347. Ducks gather near shallow banks.
+348. Lake islands contain trees.
+349. Some islands contain ruins.
+350. Some islands contain small cabins.
+351. Large lakes create broad horizons.
+352. Sunrise reflections extend across lakes.
+353. Sunset reflections create long horizontal highlights.
+354. Moonlight creates a silver path on water.
+355. Coastal waves vary in size.
+356. Waves break against rocks.
+357. Foam gathers near shorelines.
+358. Wet sand reflects the sky.
+359. Dry sand appears lighter.
+360. Footprints remain visible in wet sand.
+361. Seashells appear along beaches.
+362. Driftwood lies near shorelines.
+363. Coastal cliffs rise above beaches.
+364. Coastal caves open beneath cliffs.
+365. Sea birds circle above coastlines.
+366. Lighthouses stand on prominent cliffs.
+367. Lighthouse beams rotate at night.
+368. Harbor towns contain wooden piers.
+369. Harbor water contains many reflections.
+370. Ships rest farther offshore.
+371. Fishing boats vary in size.
+372. Harbor warehouses line waterfronts.
+373. Rope coils sit on docks.
+374. Wooden crates sit near warehouses.
+375. Barrels appear beside loading areas.
+376. Lanterns illuminate harbor paths.
+377. Storm clouds darken coastal horizons.
+378. Waves become stronger during storms.
+379. Rain creates mist above water.
+380. Lightning reflects across ocean surfaces.
+381. Calm weather produces smoother water.
+382. Fog can hide distant islands.
+383. Fog gradually reveals coastal landmarks.
+384. Water temperature can influence mist placement visually.
+385. Frozen northern lakes contain ice.
+386. Ice edges crack naturally.
+387. Snow covers lake shorelines.
+388. Frozen waterfalls form vertical ice structures.
+389. Meltwater creates seasonal streams.
+390. Marshes contain shallow channels.
+391. Marsh vegetation grows densely.
+392. Wooden walkways cross wetlands.
+393. Wetland pools reflect clouds.
+394. Reeds create layered silhouettes.
+395. Fireflies appear above wetland water.
+396. Moonlight illuminates marsh mist.
+397. Water environments provide strong reflections.
+398. Water should never appear like a flat blue texture.
+399. Shorelines should transition naturally into surrounding terrain.
+400. Water should visually connect the entire ecosystem.
+
+## 401–500: Villages and Rural Areas
+
+401. Villages contain varied building sizes.
+402. Houses have different roof shapes.
+403. Buildings use different materials.
+404. Wooden houses dominate forest villages.
+405. Stone houses dominate mountain settlements.
+406. Clay buildings appear in dry regions.
+407. Houses have visible foundations.
+408. Roofs have realistic thickness.
+409. Roof tiles vary slightly in position.
+410. Wooden beams appear structurally connected.
+411. Windows have frames.
+412. Some windows contain curtains.
+413. Curtains move subtly with airflow.
+414. Doors contain handles.
+415. Doors fit their frames correctly.
+416. Porches contain furniture.
+417. Benches sit outside houses.
+418. Flower pots decorate windows.
+419. Laundry hangs between buildings.
+420. Cloth moves naturally in wind.
+421. Villagers walk along roads.
+422. Villagers use different walking speeds.
+423. Children play near safe village areas.
+424. Farmers work near fields.
+425. Blacksmiths work near furnaces.
+426. Merchants stand near market stalls.
+427. Guards stand near entrances.
+428. Animals occupy farmyards.
+429. Chickens move around village paths.
+430. Cows occupy fenced fields.
+431. Horses stand near stables.
+432. Sheep graze in meadows.
+433. Dogs accompany some villagers.
+434. Cats appear around houses.
+435. Farms contain crop rows.
+436. Crop rows follow terrain contours.
+437. Irrigation channels cross fields.
+438. Wooden fences divide farmland.
+439. Hay bales appear beside barns.
+440. Barn doors are large enough for carts.
+441. Grain storage structures appear near farms.
+442. Windmills occupy open areas.
+443. Windmill blades rotate with wind.
+444. Village wells occupy central areas.
+445. Buckets hang beside wells.
+446. Water troughs stand near animals.
+447. Village roads become narrower between buildings.
+448. Main roads are wider.
+449. Side paths connect homes.
+450. Paths contain small stones.
+451. Market squares contain stalls.
+452. Stalls display colorful fabrics.
+453. Fruit baskets appear on market tables.
+454. Pottery fills craft stalls.
+455. Wooden signs identify shops.
+456. Shop awnings provide shade.
+457. Lanterns hang from market structures.
+458. Tavern entrances have distinctive signs.
+459. Tavern windows emit warm light.
+460. Inns contain upper-floor balconies.
+461. Village temples contain decorative roofs.
+462. Temple courtyards contain stone statues.
+463. Village shrines appear beside roads.
+464. Small bridges connect village districts.
+465. Streams pass through settlements.
+466. Water wheels operate near rivers.
+467. Mills contain wooden machinery.
+468. Smoke rises from cooking fires.
+469. Chimney smoke changes with wind.
+470. Cooking fires illuminate kitchens at night.
+471. Villages become brighter after sunset.
+472. Street lamps illuminate major paths.
+473. Shadows become softer around lanterns.
+474. Windows show silhouettes occasionally.
+475. Night markets can contain additional lighting.
+476. Rain makes village streets reflective.
+477. Mud forms near heavily used paths.
+478. Wooden surfaces darken when wet.
+479. Snow accumulates on village roofs.
+480. Snow is cleared from major paths.
+481. Winter villages contain stacked firewood.
+482. Autumn villages contain fallen leaves.
+483. Spring villages contain flowers.
+484. Summer villages contain dense vegetation.
+485. Village festivals contain decorative banners.
+486. Festival lanterns hang across streets.
+487. Villagers gather in plazas.
+488. Food stalls create visual activity.
+489. Musicians gather near public squares.
+490. Children gather around performances.
+491. Village outskirts gradually become countryside.
+492. Countryside contains isolated farmhouses.
+493. Farmhouses have surrounding fields.
+494. Roads contain carts.
+495. Carts leave wheel tracks.
+496. Rural bridges appear smaller than city bridges.
+497. Village architecture reflects local climate.
+498. Settlement density changes naturally.
+499. Villages should feel functional rather than decorative.
+500. Every settlement should visually communicate daily life.
+
+## 501–600: Cities
+
+501. Major cities have recognizable silhouettes.
+502. City walls define historic districts.
+503. Large gates control entrances.
+504. Gatehouses contain guard platforms.
+505. Towers rise above surrounding buildings.
+506. Streets vary in width.
+507. Main streets contain heavier traffic.
+508. Side streets contain fewer people.
+509. Buildings become denser toward city centers.
+510. Central plazas contain architectural landmarks.
+511. Fountains occupy some plazas.
+512. Statues decorate important squares.
+513. Banners hang from government buildings.
+514. Markets occupy dedicated districts.
+515. Merchant stalls line busy streets.
+516. Shop windows display goods.
+517. Blacksmith districts contain furnaces.
+518. Smoke rises above industrial areas.
+519. Warehouses occupy trade districts.
+520. Loading docks connect warehouses to roads.
+521. Horse carts transport goods.
+522. Delivery carts use side streets.
+523. Inns occupy convenient locations.
+524. Taverns have illuminated signs.
+525. Temples contain large courtyards.
+526. Government buildings have imposing entrances.
+527. Palaces occupy protected districts.
+528. Palace gardens contain fountains.
+529. Gardens contain symmetrical paths.
+530. Decorative trees line palace roads.
+531. Bridges connect separated city districts.
+532. Canals pass through some cities.
+533. Boats transport goods along canals.
+534. Canal houses rise directly beside water.
+535. Reflections appear beneath canal buildings.
+536. Stone steps lead down to waterways.
+537. City streets contain drainage channels.
+538. Rainwater flows toward drains.
+539. Cobblestones have irregular wear.
+540. Wheel tracks appear on heavily traveled streets.
+541. Street corners contain lantern posts.
+542. Building facades have different ages.
+543. Old buildings contain repaired sections.
+544. New buildings contain cleaner surfaces.
+545. Architectural styles transition by district.
+546. Residential neighborhoods contain balconies.
+547. Balconies contain plants.
+548. Laundry hangs from some balconies.
+549. Cloth responds to wind.
+550. Upper floors contain illuminated windows.
+551. Rooftops contain chimneys.
+552. Some rooftops contain gardens.
+553. Rooftop terraces overlook city streets.
+554. Tall towers provide panoramic views.
+555. Bell towers mark religious districts.
+556. Clock towers create major landmarks.
+557. Bells can visually communicate time.
+558. City walls cast long shadows.
+559. Gates become crowded during daytime.
+560. City streets become quieter at night.
+561. Night markets create concentrated illumination.
+562. Lanterns create pools of warm light.
+563. Rain creates strong reflections.
+564. Fog can fill narrow streets.
+565. Morning mist creates atmospheric depth.
+566. Sunrise illuminates upper building floors first.
+567. Sunset illuminates western facades.
+568. Tall buildings cast moving shadows.
+569. Smoke creates distant atmospheric haze.
+570. Birds fly above rooftops.
+571. Pigeons gather around plazas.
+572. Cats move through quiet alleys.
+573. Dogs accompany pedestrians.
+574. Guards patrol major entrances.
+575. Merchants interact with customers.
+576. Workers carry crates.
+577. Children move through safe residential areas.
+578. Travelers arrive through gates.
+579. Horses wait near inns.
+580. Stable buildings occupy peripheral districts.
+581. Public gardens provide open green areas.
+582. Trees break up dense architecture.
+583. Small parks contain benches.
+584. Fountains provide animated water.
+585. Statues contain weathering.
+586. Stone walls contain moss in damp areas.
+587. City architecture reacts to local geography.
+588. Hillside cities contain layered streets.
+589. Mountain cities contain retaining walls.
+590. Coastal cities contain harbors.
+591. River cities contain waterfront districts.
+592. Desert cities contain shaded streets.
+593. Snow cities contain covered walkways.
+594. Cities should contain multiple visual layers.
+595. Foreground buildings should partially obscure distant buildings.
+596. Distant towers should remain visible through gaps.
+597. Atmospheric perspective should separate city depth.
+598. Lighting should reveal architectural materials.
+599. Cities should never feel like repeated building prefabs.
+600. Every major city should have a distinct visual identity.
+
+## 601–700: Roads, Bridges, and Exploration
+
+601. Roads form a connected transportation network.
+602. Major roads are wider than minor paths.
+603. Roads follow terrain rather than cutting through it unnaturally.
+604. Mountain roads contain switchbacks.
+605. Forest roads curve between trees.
+606. Desert roads cross open terrain.
+607. Coastal roads follow cliffs.
+608. Village paths connect farms.
+609. City roads contain heavier traffic.
+610. Rural roads contain carts.
+611. Roads show signs of weathering.
+612. Dirt roads contain tire tracks.
+613. Mud roads contain footprints.
+614. Snow roads contain cleared tracks.
+615. Stone roads contain irregular paving.
+616. Wooden bridges cross narrow rivers.
+617. Stone bridges cross major rivers.
+618. Bridges contain railings.
+619. Railings show wear.
+620. Bridge foundations touch stable ground.
+621. Rope bridges cross dangerous ravines.
+622. Rope bridges contain wooden planks.
+623. Planks have slight spacing.
+624. Suspension ropes have realistic sag.
+625. Bridges cast shadows into water.
+626. Water reflects bridge structures.
+627. Roads contain roadside vegetation.
+628. Grass grows along road edges.
+629. Wildflowers appear beside quiet roads.
+630. Roadside stones mark boundaries.
+631. Wooden signposts indicate destinations.
+632. Direction signs point toward settlements.
+633. Distance markers appear on major routes.
+634. Travelers can rest beside roads.
+635. Campsites appear near scenic locations.
+636. Campfires illuminate resting areas.
+637. Bedrolls sit beside tents.
+638. Supply crates sit near camps.
+639. Abandoned carts appear in remote regions.
+640. Broken wagons tell environmental stories.
+641. Ruined roads indicate forgotten settlements.
+642. Ancient stairways lead to hidden areas.
+643. Narrow paths lead into forests.
+644. Mountain trails lead toward peaks.
+645. Coastal paths lead toward viewpoints.
+646. River paths follow shorelines.
+647. Hidden caves appear behind vegetation.
+648. Small waterfalls conceal entrances.
+649. Large trees can conceal paths.
+650. Ruins can be discovered from distant silhouettes.
+651. Watchtowers reveal surrounding terrain.
+652. Climbing paths lead to lookout points.
+653. Lookout points contain panoramic views.
+654. Distant landmarks help navigation.
+655. Mountain peaks serve as compass references.
+656. Tall towers identify cities.
+657. Smoke identifies settlements.
+658. River directions help orient exploration.
+659. Roads should never randomly end without explanation.
+660. Dead ends should contain visual reasons.
+661. Collapsed bridges can block old paths.
+662. Rockslides can obstruct mountain routes.
+663. Fallen trees can block forest trails.
+664. Flooding can change temporary routes.
+665. Construction can redirect city traffic.
+666. Seasonal paths can appear during dry periods.
+667. Frozen lakes can create alternate routes.
+668. Low tide can expose coastal paths.
+669. Exploration routes should contain visual variety.
+670. Long roads should have distant landmarks.
+671. Curves should reveal scenery progressively.
+672. Roads should not reveal every landmark immediately.
+673. Terrain should create anticipation.
+674. Hills can hide settlements.
+675. Forests can hide ruins.
+676. Valleys can hide rivers.
+677. Cliffs can hide waterfalls.
+678. Fog can hide distant mountains.
+679. Weather can alter visibility.
+680. Lighting can alter landmark appearance.
+681. Morning roads can appear misty.
+682. Noon roads can appear brighter.
+683. Evening roads can appear golden.
+684. Night roads can become lantern-lit.
+685. Moonlit paths can remain partially visible.
+686. Travelers create subtle movement.
+687. Animal tracks can indicate nearby wildlife.
+688. Broken branches can suggest animal activity.
+689. Footprints can indicate previous travelers.
+690. Smoke trails can indicate camps.
+691. Distant bells can visually suggest settlements.
+692. Roadside shrines create points of interest.
+693. Milestones create visual navigation.
+694. Bridges create memorable compositions.
+695. Mountain passes create dramatic transitions.
+696. Forest tunnels create enclosed environments.
+697. Open plains create visual relief.
+698. Coastal roads create expansive horizons.
+699. Roads should visually communicate direction and distance.
+700. Exploration should constantly reveal new scenery.
+
+## 701–800: Weather, Sky, and Lighting
+
+701. The sky contains dynamic cloud formations.
+702. Clouds vary in thickness.
+703. Clouds vary in altitude.
+704. Clouds move at different speeds.
+705. Thin clouds allow sunlight through.
+706. Thick clouds produce darker shadows.
+707. Sunrise gradually changes sky colors.
+708. Sunset produces warm horizon illumination.
+709. Dawn fog appears in low areas.
+710. Morning dew appears on vegetation.
+711. Noon lighting creates stronger shadows.
+712. Afternoon lighting becomes warmer.
+713. Golden hour produces long shadows.
+714. Twilight produces gradual color transitions.
+715. Night reveals stars.
+716. Stars vary in brightness.
+717. The moon changes apparent phase.
+718. Moonlight produces soft environmental illumination.
+719. Clouds can partially obscure moonlight.
+720. Mountain silhouettes become dark against sunsets.
+721. Rain clouds darken the landscape.
+722. Rain falls with varying intensity.
+723. Light rain creates subtle surface effects.
+724. Heavy rain creates visible curtains.
+725. Rain wets roads.
+726. Rain wets building roofs.
+727. Rain wets stone walls.
+728. Rain wets tree trunks.
+729. Puddles form in terrain depressions.
+730. Puddles reflect nearby lights.
+731. Storms produce stronger wind.
+732. Trees respond to storm wind.
+733. Cloth reacts to changing wind.
+734. Dust moves across dry terrain.
+735. Sand moves during desert winds.
+736. Snow falls in cold regions.
+737. Snowflakes vary in apparent size.
+738. Snow accumulates gradually.
+739. Snow covers roofs.
+740. Snow covers branches.
+741. Snow covers roads partially.
+742. Footprints remain visible in snow.
+743. Heavy snowfall reduces visibility.
+744. Fog changes density over time.
+745. Fog is thicker near water.
+746. Fog collects in valleys.
+747. Fog thins under sunlight.
+748. Mist appears around waterfalls.
+749. Mist drifts according to wind.
+750. Atmospheric haze increases with distance.
+751. Distant objects become less detailed.
+752. Distant colors become less saturated.
+753. Sunlight creates directional shadows.
+754. Shadows align consistently with the sun.
+755. Cloud shadows move across terrain.
+756. Tree shadows move subtly with sunlight.
+757. Building shadows change during the day.
+758. Lanterns illuminate nearby surfaces at night.
+759. Firelight produces dynamic illumination.
+760. Campfires illuminate nearby faces.
+761. Torches create moving light.
+762. Magical environmental lights can glow softly.
+763. Glowing plants can illuminate dark forests.
+764. Bioluminescent water can illuminate shorelines.
+765. Lightning creates temporary high-contrast illumination.
+766. Thunderstorms create dramatic sky silhouettes.
+767. Rainbow effects can appear after rain.
+768. Rainbows remain visually connected to weather conditions.
+769. Sunrise reflections appear on water.
+770. Sunset reflections appear on water.
+771. Snow reflects sky illumination.
+772. Wet surfaces reflect light more strongly.
+773. Dry stone absorbs more light.
+774. Polished stone reflects subtle highlights.
+775. Metal surfaces reflect stronger highlights.
+776. Wooden surfaces show directional grain.
+777. Cloth responds softly to light.
+778. Glass reflects surrounding scenery.
+779. Windows emit interior lighting at night.
+780. Atmospheric lighting creates depth.
+781. Fog separates foreground and background.
+782. Clouds create depth in the sky.
+783. Stars become less visible near bright cities.
+784. Moonlight is stronger in open landscapes.
+785. Forest canopies create dark interior zones.
+786. Sunbeams penetrate canopy gaps.
+787. Dust becomes visible in interior light.
+788. Rain produces tiny highlights.
+789. Snowflakes catch light.
+790. Water spray catches sunlight.
+791. Water spray catches moonlight.
+792. Fire smoke changes color with lighting.
+793. Sunrise gradually reveals distant terrain.
+794. Sunset gradually hides distant terrain.
+795. Weather changes should be gradual.
+796. Lighting transitions should avoid sudden popping.
+797. Shadows should remain geometrically consistent.
+798. Environmental lighting should match the sky.
+799. Weather should reinforce the mood without destroying visibility.
+800. The sky and lighting should make the world feel cinematic.
+
+## 801–900: Architecture, Ruins, Temples, and Landmarks
+
+801. Ancient temples use layered architecture.
+802. Temple foundations are structurally grounded.
+803. Temple stairs contain visible wear.
+804. Temple columns have unique carvings.
+805. Roofs contain layered tiles.
+806. Decorative ornaments hang from roof edges.
+807. Stone lions guard some entrances.
+808. Statues occupy temple courtyards.
+809. Incense burners release thin smoke.
+810. Temple gardens contain carefully arranged plants.
+811. Water channels cross temple gardens.
+812. Stone lanterns illuminate pathways.
+813. Bridges cross garden ponds.
+814. Lotus flowers grow in temple ponds.
+815. Temple walls contain weathered paintings.
+816. Wooden doors contain carved patterns.
+817. Interior courtyards contain open sky.
+818. Courtyard trees create central landmarks.
+819. Monasteries contain long corridors.
+820. Corridors contain repeating columns.
+821. Prayer halls contain large wooden beams.
+822. Bells hang from elevated structures.
+823. Banners move gently in wind.
+824. Ancient libraries contain tall shelves.
+825. Scrolls fill wooden storage areas.
+826. Ruined libraries contain fallen books.
+827. Dust accumulates on abandoned surfaces.
+828. Sunlight enters ruins through broken roofs.
+829. Vegetation grows through cracked floors.
+830. Roots penetrate ruined walls.
+831. Moss covers shaded masonry.
+832. Rainwater collects inside ruined structures.
+833. Broken statues lie beside collapsed walls.
+834. Fallen columns remain partially buried.
+835. Ancient roads lead toward ruins.
+836. Ruins contain partially intact courtyards.
+837. Hidden chambers exist beneath old buildings.
+838. Stone staircases descend underground.
+839. Underground halls contain ancient carvings.
+840. Cave temples combine natural and artificial structures.
+841. Giant doors mark important ruins.
+842. Doors contain symmetrical carvings.
+843. Monumental statues create distant landmarks.
+844. Giant stone arches frame landscapes.
+845. Towers stand above ancient settlements.
+846. Fortresses occupy mountain passes.
+847. Fortress walls follow terrain.
+848. Defensive towers contain narrow openings.
+849. Courtyards contain training grounds.
+850. Barracks contain rows of equipment.
+851. Armories contain organized weapons.
+852. Stable yards contain horses.
+853. Castle courtyards contain wells.
+854. Castle walls contain flags.
+855. Royal gardens contain geometric layouts.
+856. Palace entrances contain broad stairs.
+857. Palace interiors contain large halls.
+858. Large halls contain decorative pillars.
+859. Wooden floors show subtle wear.
+860. Rugs contain geometric patterns.
+861. Chandeliers provide interior lighting.
+862. Windows frame distant scenery.
+863. Balconies overlook gardens.
+864. Hidden passages connect palace areas.
+865. Ancient monuments stand alone in fields.
+866. Giant stone circles form mysterious landmarks.
+867. Standing stones cast long shadows.
+868. Desert ruins rise above dunes.
+869. Jungle ruins disappear beneath vegetation.
+870. Snow ruins appear partially buried.
+871. Coastal ruins overlook the sea.
+872. Mountain shrines overlook valleys.
+873. Bridge monuments mark major routes.
+874. Roadside statues guide travelers.
+875. Memorial stones appear near settlements.
+876. Graveyards contain varied tombstones.
+877. Old cemeteries contain overgrown vegetation.
+878. Mausoleums use distinctive architecture.
+879. Crypt entrances lead underground.
+880. Ancient gates create transitions between regions.
+881. Monumental gates contain carved symbols.
+882. Archways frame distant scenery.
+883. Ruined walls create scenic viewpoints.
+884. Old towers provide elevated exploration.
+885. Broken staircases create environmental storytelling.
+886. Abandoned workshops contain tools.
+887. Forgotten mines contain wooden supports.
+888. Mine entrances contain carts.
+889. Mining towns contain ore storage.
+890. Industrial ruins contain rusted machinery.
+891. Old factories contain broken windows.
+892. Smoke stacks rise above abandoned districts.
+893. Overgrown industrial buildings mix nature and architecture.
+894. Bridges connect abandoned industrial areas.
+895. Historical architecture changes by region.
+896. Landmarks should remain recognizable from a distance.
+897. Major landmarks should have unique silhouettes.
+898. Ruins should visually communicate age.
+899. Architecture should appear physically connected to its environment.
+900. Landmarks should give players memorable visual destinations.
+
+## 901–1000: Final Visual Quality and Immersion
+
+901. The entire world uses consistent scale.
+902. Characters match environmental proportions.
+903. Doors match character height.
+904. Furniture matches building scale.
+905. Trees have believable dimensions.
+906. Mountains remain appropriately enormous.
+907. Rivers maintain consistent elevation flow.
+908. Bridges physically connect both sides of waterways.
+909. Buildings sit directly on foundations.
+910. Objects should not float above terrain.
+911. Objects should not sink unnaturally into terrain.
+912. Roads should connect seamlessly to bridges.
+913. Bridges should connect seamlessly to roads.
+914. Paths should connect logically to buildings.
+915. Vegetation should emerge naturally from soil.
+916. Rocks should contact the ground correctly.
+917. Trees should have visible ground contact.
+918. Shadows should correspond to object positions.
+919. Reflections should correspond to surrounding geometry.
+920. Water should remain below riverbanks.
+921. Terrain transitions should avoid visible seams.
+922. Biome transitions should be gradual.
+923. Forest edges should not form perfect circles.
+924. Mountain slopes should not appear algorithmically smooth.
+925. Terrain should contain natural imperfections.
+926. Building placement should avoid obvious repetition.
+927. Trees should avoid identical spacing.
+928. Rocks should avoid identical orientation.
+929. Flowers should appear in irregular groups.
+930. Clouds should avoid repetitive patterns.
+931. NPC clothing should have visual variety.
+932. NPC body proportions should remain believable.
+933. NPC animations should avoid robotic movement.
+934. Characters should transfer weight naturally.
+935. Feet should contact terrain correctly.
+936. Characters should not slide during walking.
+937. Hands should interact correctly with objects.
+938. Weapons should remain attached correctly.
+939. Hair should react naturally to movement.
+940. Clothing should react naturally to movement.
+941. Environmental objects should react subtly to wind.
+942. Trees should not bend like rubber.
+943. Water should not move like solid plastic.
+944. Fire should have irregular motion.
+945. Smoke should disperse according to wind.
+946. Clouds should move gradually.
+947. Fog should move gradually.
+948. Snow should accumulate naturally.
+949. Rain should follow gravity.
+950. Falling leaves should respond to wind.
+951. Birds should follow believable flight paths.
+952. Animals should interact with terrain.
+953. Animals should avoid impossible positions.
+954. NPCs should avoid walking through walls.
+955. NPCs should avoid standing on furniture.
+956. Vehicles should remain grounded.
+957. Carts should have correctly aligned wheels.
+958. Boats should float at correct water levels.
+959. Doors should rotate around hinges.
+960. Gates should open from their hinge positions.
+961. Drawbridges should rotate around realistic supports.
+962. Windmills should rotate around central axles.
+963. Water wheels should contact flowing water.
+964. Fountains should emit water from believable sources.
+965. Waterfalls should originate from higher terrain.
+966. Bridges should have structural supports.
+967. Buildings should have load-bearing structures.
+968. Roofs should rest correctly on walls.
+969. Chimneys should connect to roofs.
+970. Smoke should emerge from chimney openings.
+971. Lantern light should illuminate nearby surfaces.
+972. Interior lighting should remain inside buildings.
+973. Firelight should create subtle dynamic shadows.
+974. Night lighting should preserve environmental silhouettes.
+975. Daylight should reveal terrain depth.
+976. Atmospheric perspective should enhance distance.
+977. High-resolution textures should reveal material detail.
+978. Stone should have natural roughness.
+979. Wood should have visible grain.
+980. Metal should contain realistic reflections.
+981. Cloth should contain subtle folds.
+982. Leather should contain surface variation.
+983. Glass should reflect and transmit light appropriately.
+984. Water should contain physically believable reflections.
+985. Snow should have varied surface texture.
+986. Sand should contain small wind patterns.
+987. Mud should contain footprints and wheel marks.
+988. Dirt should contain color variation.
+989. Grass should contain multiple shades.
+990. Flowers should contain varied shapes.
+991. Trees should contain layered foliage.
+992. Mountains should contain geological variation.
+993. Clouds should contain volumetric depth.
+994. Fog should create layered atmospheric depth.
+995. Every region should contain recognizable visual landmarks.
+996. Every biome should transition naturally into neighboring biomes.
+997. Every major location should feel visually distinct.
+998. The world should reward players for looking into the distance.
+999. The world should feel beautiful from both ground level and elevated viewpoints.
+1000. The final game world should feel like a coherent, living, cinematic universe rather than a collection of disconnected 3D assets.
+
